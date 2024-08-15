@@ -25,13 +25,8 @@ import Reservations from './AllPages/Reservations'
 import Calenderr from './AllPages/Calenderr'
 import ReviewPage from './AllPages/ReviewPage'
 
-// helloe
 
-
-
-
-
-axios.defaults.baseURL = 'http://localhost:4000';
+axios.defaults.baseURL = 'http://localhost:4000' ;
 
 axios.defaults.withCredentials= true;
 
